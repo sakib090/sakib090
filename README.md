@@ -2,15 +2,15 @@
 
 I'm a Data Scientist based in London, currently finishing my MSc in Data 
 Science at Queen Mary University of London. I genuinely enjoy working with 
-data — not just the technical side, but understanding what the numbers are 
+data - not just the technical side, but understanding what the numbers are 
 actually saying and turning that into something useful for real people.
 
 My background spans research, industry placements, and academic projects 
-across a range of domains — from analysing media campaigns at HAVAS UK, 
+across a range of domains - from analysing media campaigns at HAVAS UK, 
 to working on an EU Horizon-funded AI research project at QMUL, to building 
 Spark pipelines that process millions of records on a university cluster.
 
-I care about doing things properly — clean code, honest analysis, and 
+I care about doing things properly - clean code, honest analysis, and 
 communicating findings in a way that actually makes sense to whoever 
 needs to act on them.
 
