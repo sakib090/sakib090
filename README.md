@@ -25,3 +25,6 @@ needs to act on them.
 - 🎓 Finishing my MSc dissertation on LSTM-based portfolio optimisation
 - 🔬 Contributing to the ROADVIEW EU Horizon research programme at QMUL
 - 📊 Building out this portfolio with real project work
+
+## Get in touch
+- 💼 [LinkedIn](https://www.linkedin.com/in/sakib-islam-0aa149298)
